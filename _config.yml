@@ -8,7 +8,7 @@ remote_theme: "swcarpentry-i18n/carp-theme"
 carpentry: "swc"
 
 # Overall title for pages.
-title: "The Unix Shell"
+title: "The Unix Shell - seen from me"
 
 # Contact email address.
 email: lessons@software-carpentry.org
