@@ -26,3 +26,4 @@ These lessons will start you on a path towards using these resources effectively
 > and scripts, you probably want to explore the next lesson: [shell-extras](http://swcarpentry.github.io/shell-extras/).
 {: .prereq}
 a new line
+a new line
