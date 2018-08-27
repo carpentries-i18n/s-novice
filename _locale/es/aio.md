@@ -1,4 +1,4 @@
 ---
 layout: aio
-permalink: /aio/
+permalink: /es/aio/
 ---
